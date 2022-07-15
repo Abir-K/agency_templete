@@ -2,6 +2,12 @@
 
 In the project directory, you can run:
 
+First of all you have to run the below command for install dependency to run the project properly
+
+### `npm install`
+
+Then run the command after installing all the dependency
+
 ### `npm start`
 
 Builds the app for production to the `build` folder.\
@@ -9,8 +15,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `npm run build`
 
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
 Demo Link :
 
